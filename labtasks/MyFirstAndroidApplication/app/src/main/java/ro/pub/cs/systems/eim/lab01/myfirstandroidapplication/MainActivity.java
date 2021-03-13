@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             fadeEffect.setDuration(TRANSPARENCY_EFFECT_DURATION);
             fadeEffect.setFillAfter(true);
             greetingTextView.setAnimation(fadeEffect);
+
         }
 
     }
